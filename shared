@@ -1,1 +1,3 @@
-"Sample Text"
+script{
+  sh "echo 'hello!'"
+}
