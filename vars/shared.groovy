@@ -1,4 +1,3 @@
-#!/bin/groovy
-script{
-  sh 'echo "Hello!"'
-  }
+def echojob(){
+  println("Hello there.")
+}
