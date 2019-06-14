@@ -1,3 +1,3 @@
-def echojob(){
+def call(){
   println("Hello there.")
 }
