@@ -1,6 +1,5 @@
 #!/usr/bin/env groovy
-class Shared{
   static def sharedfile(String name = 'human'){
     echo "Hello, ${name}."
-  }
 }
+return this
