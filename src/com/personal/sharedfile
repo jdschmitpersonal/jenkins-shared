@@ -3,3 +3,5 @@ package com.personal
 static def call(String name = 'human'){
   echo "Hello, ${name}."
 }
+
+return this
